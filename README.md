@@ -1,1 +1,7 @@
 An Online Real-time Document Editor
+
+A DOCSNAP real-time editor is a type of collaborative software or web application which enables real-time collaborative editing, simultaneous editing, or live editing of the same digital document, computer file or cloud-stored data – such as an online spreadsheet, word processing document, database or presentation – at the same time by different users on different computers or mobile devices, with automatic and nearly instantaneous merging of their edits.
+
+Real-time editing performs automatic, periodic, often nearly instantaneous synchronization of edits of all online users as they edit the document on their own device. This is designed to avoid or minimize edit conflicts.
+
+With asynchronous collaborative editing (i.e. non-real-time, delayed or offline), each user must typically manually submit (publish, push or commit), update (refresh, pull, download or sync) and (if any edit conflicts occur) merge their edits. Due to the delayed nature of asynchronous collaborative editing, multiple users can end up editing the same line, word, element, data, row or field resulting in edit conflicts which require manual edit merging or overwriting, requiring the user to choose which edits to use or (depending on the system and setup) automatically overwriting their edits or other people's edits, with or without a warning.
